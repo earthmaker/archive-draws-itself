@@ -1,0 +1,9 @@
+# 내려받은 원자료와 생성 산출물은 추적하지 않는다.
+# 이미지는 원 아카이브(Janelia FlyLight)가 정본이고, fetch 코드가 받아온다.
+/data/
+/out/
+
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
